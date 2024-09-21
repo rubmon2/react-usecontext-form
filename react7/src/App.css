@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  background-color: #282c34 !important;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.texto-color{
+color: white !important;
+}
+
+.nav-barra{
+  background-color: #5e5e5e !important;
+}
+.nav-link:hover{
+  color: #fff !important;
+  text-transform: uppercase;  
+}
+
+.input-nav{
+    background-color:#5e5e5e !important;
+    text-align: center;
+}
+.input-nav:hover{
+  color: #fff !important;
+  text-transform: uppercase;
+}
+
+.titulo-home{
+  text-align: center;
+}
